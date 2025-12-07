@@ -3,15 +3,9 @@ title: "Fos_HW_07_Group_II"
 output: html_document
 ---
 
-### 1.
+### 1. & 2.
 
-
-
-### 2.
-
-
-
----
+![](images/sheet_07_ex_01:02.jpg)
 
 ### 3.
 
